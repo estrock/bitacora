@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "hch",
+        "descripcion": "Formación Hombro-Cabeza-Hombro."
+    },
+    {
+        "nombre": "fuerza",
+        "descripcion": "Indicador de fuerza relativa."
+    },
+    {
+        "nombre": "noticia",
+        "descripcion": "Activado por evento noticioso importante."
+    },
+    {
+        "nombre": "volatilidad",
+        "descripcion": "Alta volatilidad del mercado."
+    },
+    {
+        "nombre": "volatilidad2",
+        "descripcion": "Alta volatilidad del mercado."
+    },
+    {
+        "nombre": "volatilidad2",
+        "descripcion": "Alta volatilidad del mercado."
+    },
+    {
+        "nombre": "fuerza2",
+        "descripcion": "fuerza 2"
+    },
+    {
+        "nombre": "estrucura 4h",
+        "descripcion": "estructura"
+    },
+    {
+        "nombre": "estructura 2h",
+        "descripcion": "estructura en 2 h"
+    }
+]

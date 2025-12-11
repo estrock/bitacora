@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Toma Parcial",
+        "descripcion": "Cierre de una porción de la posición."
+    },
+    {
+        "nombre": "Manejo Riego",
+        "descripcion": "Ajuste de stop loss durante el trade."
+    },
+    {
+        "nombre": "Ninguna",
+        "descripcion": "No se aplicó ninguna mejora."
+    }
+]

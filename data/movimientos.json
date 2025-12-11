@@ -1,0 +1,414 @@
+[
+    {
+        "activo": "EURUSD",
+        "accion": "COMPRA",
+        "resultado": 1.075,
+        "ganancia/perdida": 45.2,
+        "tipo entrada": "Rebrote",
+        "mejorar": "Toma Parcial",
+        "confirmaciones": {
+            "hch": true,
+            "fuerza": true
+        }
+    },
+    {
+        "activo": "GBPUSD",
+        "accion": "VENTA",
+        "resultado": 1.25,
+        "ganancia/perdida": -30.5,
+        "tipo entrada": "Ruptura",
+        "mejorar": "Ninguna",
+        "confirmaciones": {
+            "noticia": true,
+            "fuerza": false
+        }
+    },
+    {
+        "activo": "EURUSD",
+        "accion": "COMPRA",
+        "resultado": 1.078,
+        "ganancia/perdida": 12.0,
+        "tipo entrada": "Rebrote",
+        "mejorar": "Manejo Riego",
+        "confirmaciones": {
+            "fuerza": true,
+            "volatilidad": true
+        }
+    },
+    {
+        "activo": "AUDUSD",
+        "accion": "VENTA",
+        "resultado": 0.655,
+        "ganancia/perdida": -55.0,
+        "tipo entrada": "Rango",
+        "mejorar": "Toma Parcial",
+        "confirmaciones": {
+            "hch": false,
+            "volatilidad": true
+        }
+    },
+    {
+        "activo": "EURUSD",
+        "accion": "COMPRA",
+        "resultado": 1.08,
+        "ganancia/perdida": 80.5,
+        "tipo entrada": "Rebrote",
+        "mejorar": "Manejo Riego",
+        "confirmaciones": {
+            "noticia": true,
+            "divergencia": true,
+            "hch": true
+        }
+    },
+    {
+        "activo": "oro",
+        "accion": "COMPRA",
+        "resultado": 0.0,
+        "ganancia/perdida": 10.0,
+        "tipo entrada": "1",
+        "mejorar": "N/A",
+        "confirmaciones": {}
+    },
+    {
+        "activo": "oro",
+        "accion": "COMPRA",
+        "resultado": 0.0,
+        "ganancia/perdida": -10.0,
+        "tipo entrada": "1",
+        "mejorar": "N/A",
+        "confirmaciones": {
+            "hch": true,
+            "fuerza": true
+        }
+    },
+    {
+        "activo": "oro",
+        "accion": "COMPRA",
+        "resultado": 0.0,
+        "ganancia/perdida": -10.0,
+        "tipo entrada": "1",
+        "mejorar": "N/A",
+        "confirmaciones": {
+            "hch": true,
+            "fuerza": true
+        }
+    },
+    {
+        "activo": "oro",
+        "accion": "COMPRA",
+        "resultado": 0.0,
+        "ganancia/perdida": 15.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {
+            "hch": true,
+            "fuerza": true,
+            "volatilidad": true
+        }
+    },
+    {
+        "activo": "oro",
+        "accion": "venta",
+        "resultado": 0.0,
+        "ganancia/perdida": 10.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {}
+    },
+    {
+        "activo": "oro",
+        "accion": "venta",
+        "resultado": 0.0,
+        "ganancia/perdida": 10.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {}
+    },
+    {
+        "activo": "oro",
+        "accion": "venta",
+        "resultado": 0.0,
+        "ganancia/perdida": 10.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {}
+    },
+    {
+        "activo": "oro",
+        "accion": "venta",
+        "resultado": 0.0,
+        "ganancia/perdida": 10.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {}
+    },
+    {
+        "activo": "oro",
+        "accion": "venta",
+        "resultado": 0.0,
+        "ganancia/perdida": 10.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {}
+    },
+    {
+        "activo": "oro",
+        "accion": "venta",
+        "resultado": 0.0,
+        "ganancia/perdida": 10.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {}
+    },
+    {
+        "activo": "oro",
+        "accion": "venta",
+        "resultado": 0.0,
+        "ganancia/perdida": 10.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {}
+    },
+    {
+        "activo": "oro",
+        "accion": "venta",
+        "resultado": 0.0,
+        "ganancia/perdida": 10.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {}
+    },
+    {
+        "activo": "oro",
+        "accion": "buy",
+        "resultado": 0.0,
+        "ganancia/perdida": 15.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {}
+    },
+    {
+        "activo": "oro",
+        "accion": "buy",
+        "resultado": 0.0,
+        "ganancia/perdida": 15.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {
+            "hch": true,
+            "fuerza": true,
+            "noticia": true
+        }
+    },
+    {
+        "activo": "eurusd",
+        "accion": "sell",
+        "resultado": 0.0,
+        "ganancia/perdida": -15.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {
+            "fuerza": true,
+            "volatilidad": true,
+            "volatilidad2": true
+        }
+    },
+    {
+        "activo": "eurusd",
+        "accion": "sell",
+        "resultado": 0.0,
+        "ganancia/perdida": -15.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {
+            "fuerza": true,
+            "volatilidad": true
+        }
+    },
+    {
+        "activo": "eurusd",
+        "accion": "sell",
+        "resultado": 0.0,
+        "ganancia/perdida": -15.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {
+            "fuerza": true,
+            "volatilidad": true
+        }
+    },
+    {
+        "activo": "eurusd",
+        "accion": "sell",
+        "resultado": 0.0,
+        "ganancia/perdida": -15.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {
+            "fuerza": true,
+            "volatilidad": true
+        }
+    },
+    {
+        "activo": "eurusd",
+        "accion": "sell",
+        "resultado": 0.0,
+        "ganancia/perdida": -15.0,
+        "tipo entrada": "w",
+        "mejorar": "sl",
+        "confirmaciones": {
+            "fuerza": true,
+            "volatilidad": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 10.0,
+        "tipo entrada": "w",
+        "mejorar": "tp",
+        "confirmaciones": {}
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 10.0,
+        "tipo entrada": "w",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "hch": true,
+            "noticia": true,
+            "volatilidad": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 10.0,
+        "tipo entrada": "w",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "estructura 2h": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 50.0,
+        "tipo entrada": "w",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "estructura 2h": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 50.0,
+        "tipo entrada": "w",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "estructura 2h": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 100.0,
+        "tipo entrada": "w",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "estructura 2h": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 100.0,
+        "tipo entrada": "1",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "estructura 2h": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 100.0,
+        "tipo entrada": "1",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "estructura 2h": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 100.0,
+        "tipo entrada": "1",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "estructura 2h": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 100.0,
+        "tipo entrada": "1",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "estructura 2h": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 100.0,
+        "tipo entrada": "1",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "estructura 2h": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 100.0,
+        "tipo entrada": "1",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "estructura 2h": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 100.0,
+        "tipo entrada": "1",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "estructura 2h": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 100.0,
+        "tipo entrada": "1",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "estructura 2h": true
+        }
+    },
+    {
+        "activo": "ORO",
+        "accion": "BUY",
+        "ganancia/perdida": 100.0,
+        "tipo entrada": "1",
+        "mejorar": "tp",
+        "confirmaciones": {
+            "estructura 2h": true
+        }
+    }
+]
